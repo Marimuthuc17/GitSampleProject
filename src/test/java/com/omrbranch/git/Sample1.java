@@ -14,6 +14,20 @@ public void method2() {
 
 	}
 
+public void method5() {
+	
+	System.out.println("method5");
+
+}
+
+public void method6() {
+	
+	System.out.println("method6");
+
+}
+
+
+
 public static void main(String[] args) {
 	
 	Sample1 sample = new Sample1();
