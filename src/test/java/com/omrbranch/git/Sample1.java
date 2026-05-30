@@ -14,7 +14,19 @@ public void method2() {
 
 	}
 
-public void method5() {
+public void method3() {
+	
+	System.out.println("method3");
+
+}
+
+
+public void method4() {
+	
+	System.out.println("method4");
+}
+
+ public void method5() {
 	
 	System.out.println("method5");
 
@@ -23,8 +35,10 @@ public void method5() {
 public void method6() {
 	
 	System.out.println("method6");
-
 }
+
+
+
 
 
 
@@ -33,6 +47,8 @@ public static void main(String[] args) {
 	Sample1 sample = new Sample1();
 	sample.method1();
 	sample.method2();
+	sample.method3();
+	sample.method4();
 	
   }
 }
