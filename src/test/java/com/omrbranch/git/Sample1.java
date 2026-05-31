@@ -37,6 +37,19 @@ public void method6() {
 	System.out.println("method6");
 }
 
+public void method7() {
+	
+	System.out.println("method7");
+
+}
+
+public void method8() {
+	
+	System.out.println("method8");
+}
+
+
+
 
 
 
